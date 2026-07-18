@@ -1,0 +1,11 @@
+{
+  "name": "event-driven-patterns",
+  "version": "1.0.0",
+  "description": "Designs reliable event-driven systems with message queues, dead letter queues, consumer groups, and event schema versioning.",
+  "tags": ["architecture", "messaging", "queues", "events"],
+  "agents": ["opencode", "claude", "codex", "cursor", "windsurf", "copilot", "cline", "aider"],
+  "category": "architecture",
+  "dependencies": [],
+  "scripts": [],
+  "references": []
+}

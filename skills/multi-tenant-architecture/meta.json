@@ -1,0 +1,11 @@
+{
+  "name": "multi-tenant-architecture",
+  "version": "1.0.0",
+  "description": "Designs tenant-isolated SaaS architectures with row-level security, per-tenant config, and isolation validation tests.",
+  "tags": ["architecture", "saas", "tenancy", "isolation"],
+  "agents": ["opencode", "claude", "codex", "cursor", "windsurf", "copilot", "cline", "aider"],
+  "category": "architecture",
+  "dependencies": [],
+  "scripts": [],
+  "references": []
+}
