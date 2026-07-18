@@ -1,0 +1,23 @@
+{
+  "name": "team-orchestration",
+  "version": "1.0.0",
+  "description": "Use when a task benefits from multiple Claude instances collaborating with peer-to-peer messaging - parallel research, multi-module features, cross-layer changes, or competing hypothesis debugging. Not for simple independent tasks (use parallel-execution) or sequential tasks (use delegated-execution).",
+  "tags": [
+    "team",
+    "orchestration"
+  ],
+  "agents": [
+    "opencode",
+    "claude",
+    "codex",
+    "cursor",
+    "windsurf",
+    "copilot",
+    "cline",
+    "aider"
+  ],
+  "category": "operations",
+  "dependencies": [],
+  "scripts": [],
+  "references": []
+}

@@ -1,0 +1,23 @@
+{
+  "name": "reference-engine",
+  "version": "1.0.0",
+  "description": "Use when building ANYTHING - the universal reference-first system that routes every task to proven reference implementations instead of generating from assumptions. Covers API design, database schemas, testing strategies, CI/CD pipelines, code patterns, DevOps, and any other domain where professional reference implementations exist",
+  "tags": [
+    "reference",
+    "engine"
+  ],
+  "agents": [
+    "opencode",
+    "claude",
+    "codex",
+    "cursor",
+    "windsurf",
+    "copilot",
+    "cline",
+    "aider"
+  ],
+  "category": "architecture",
+  "dependencies": [],
+  "scripts": [],
+  "references": []
+}

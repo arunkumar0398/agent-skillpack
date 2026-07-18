@@ -1,0 +1,23 @@
+{
+  "name": "task-runner",
+  "version": "1.0.0",
+  "description": "Use when you have a written implementation plan to execute in a separate session with review checkpoints",
+  "tags": [
+    "task",
+    "runner"
+  ],
+  "agents": [
+    "opencode",
+    "claude",
+    "codex",
+    "cursor",
+    "windsurf",
+    "copilot",
+    "cline",
+    "aider"
+  ],
+  "category": "architecture",
+  "dependencies": [],
+  "scripts": [],
+  "references": []
+}

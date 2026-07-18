@@ -1,0 +1,24 @@
+{
+  "name": "doubt-driven-development",
+  "version": "1.0.0",
+  "description": "",
+  "tags": [
+    "doubt",
+    "driven",
+    "development"
+  ],
+  "agents": [
+    "opencode",
+    "claude",
+    "codex",
+    "cursor",
+    "windsurf",
+    "copilot",
+    "cline",
+    "aider"
+  ],
+  "category": "security",
+  "dependencies": [],
+  "scripts": [],
+  "references": []
+}

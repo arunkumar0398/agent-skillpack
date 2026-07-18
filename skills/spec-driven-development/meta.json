@@ -1,0 +1,24 @@
+{
+  "name": "spec-driven-development",
+  "version": "1.0.0",
+  "description": "",
+  "tags": [
+    "spec",
+    "driven",
+    "development"
+  ],
+  "agents": [
+    "opencode",
+    "claude",
+    "codex",
+    "cursor",
+    "windsurf",
+    "copilot",
+    "cline",
+    "aider"
+  ],
+  "category": "architecture",
+  "dependencies": [],
+  "scripts": [],
+  "references": []
+}

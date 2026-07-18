@@ -1,0 +1,23 @@
+{
+  "name": "security-and-hardening",
+  "version": "1.0.0",
+  "description": "",
+  "tags": [
+    "security",
+    "hardening"
+  ],
+  "agents": [
+    "opencode",
+    "claude",
+    "codex",
+    "cursor",
+    "windsurf",
+    "copilot",
+    "cline",
+    "aider"
+  ],
+  "category": "architecture",
+  "dependencies": [],
+  "scripts": [],
+  "references": []
+}

@@ -1,0 +1,23 @@
+{
+  "name": "protocol-authoring",
+  "version": "1.0.0",
+  "description": "Use when creating new protocols, editing existing protocols, or validating protocols work before deployment",
+  "tags": [
+    "protocol",
+    "authoring"
+  ],
+  "agents": [
+    "opencode",
+    "claude",
+    "codex",
+    "cursor",
+    "windsurf",
+    "copilot",
+    "cline",
+    "aider"
+  ],
+  "category": "security",
+  "dependencies": [],
+  "scripts": [],
+  "references": []
+}

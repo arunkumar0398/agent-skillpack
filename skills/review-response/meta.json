@@ -1,0 +1,23 @@
+{
+  "name": "review-response",
+  "version": "1.0.0",
+  "description": "Use when processing code review feedback before making changes, particularly when suggestions are ambiguous, technically suspect, or span multiple interdependent items - demands verification and technical rigor over compliance theater",
+  "tags": [
+    "review",
+    "response"
+  ],
+  "agents": [
+    "opencode",
+    "claude",
+    "codex",
+    "cursor",
+    "windsurf",
+    "copilot",
+    "cline",
+    "aider"
+  ],
+  "category": "design",
+  "dependencies": [],
+  "scripts": [],
+  "references": []
+}

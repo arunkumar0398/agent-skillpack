@@ -1,0 +1,22 @@
+{
+  "name": "ux-patterns",
+  "version": "1.0.0",
+  "description": "Use when building ANY user interface - web app, game, CLI, dashboard, landing page, or component - ensures all UI output references documented UX patterns instead of generating from assumptions, preventing the amateur look of AI-generated UI",
+  "tags": [
+    "patterns"
+  ],
+  "agents": [
+    "opencode",
+    "claude",
+    "codex",
+    "cursor",
+    "windsurf",
+    "copilot",
+    "cline",
+    "aider"
+  ],
+  "category": "architecture",
+  "dependencies": [],
+  "scripts": [],
+  "references": []
+}

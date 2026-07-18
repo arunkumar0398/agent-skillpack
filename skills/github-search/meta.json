@@ -1,0 +1,23 @@
+{
+  "name": "github-search",
+  "version": "1.0.0",
+  "description": "Use when about to build any feature, library, or system - searches GitHub and package registries for existing implementations to study, harvest patterns from, or use directly instead of building from scratch",
+  "tags": [
+    "github",
+    "search"
+  ],
+  "agents": [
+    "opencode",
+    "claude",
+    "codex",
+    "cursor",
+    "windsurf",
+    "copilot",
+    "cline",
+    "aider"
+  ],
+  "category": "git",
+  "dependencies": [],
+  "scripts": [],
+  "references": []
+}

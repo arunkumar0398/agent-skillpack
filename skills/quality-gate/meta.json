@@ -1,0 +1,23 @@
+{
+  "name": "quality-gate",
+  "version": "1.0.0",
+  "description": "Use when finishing tasks, shipping significant features, or before landing changes to ensure work meets standards through automated review",
+  "tags": [
+    "quality",
+    "gate"
+  ],
+  "agents": [
+    "opencode",
+    "claude",
+    "codex",
+    "cursor",
+    "windsurf",
+    "copilot",
+    "cline",
+    "aider"
+  ],
+  "category": "git",
+  "dependencies": [],
+  "scripts": [],
+  "references": []
+}

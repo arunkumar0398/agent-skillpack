@@ -1,0 +1,23 @@
+{
+  "name": "deployment-advisor",
+  "version": "1.0.0",
+  "description": "Use when making technology, hosting, or infrastructure decisions — recommends services, databases, and deployment strategies based on project requirements and what the user actually has available",
+  "tags": [
+    "deployment",
+    "advisor"
+  ],
+  "agents": [
+    "opencode",
+    "claude",
+    "codex",
+    "cursor",
+    "windsurf",
+    "copilot",
+    "cline",
+    "aider"
+  ],
+  "category": "architecture",
+  "dependencies": [],
+  "scripts": [],
+  "references": []
+}

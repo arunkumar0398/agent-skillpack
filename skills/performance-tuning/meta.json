@@ -1,0 +1,23 @@
+{
+  "name": "performance-tuning",
+  "version": "1.0.0",
+  "description": "Use when performance is a concern - sluggish pages, slow queries, bloated bundles, high-latency APIs, or whenever someone says \"optimize\" or \"make it faster",
+  "tags": [
+    "performance",
+    "tuning"
+  ],
+  "agents": [
+    "opencode",
+    "claude",
+    "codex",
+    "cursor",
+    "windsurf",
+    "copilot",
+    "cline",
+    "aider"
+  ],
+  "category": "architecture",
+  "dependencies": [],
+  "scripts": [],
+  "references": []
+}

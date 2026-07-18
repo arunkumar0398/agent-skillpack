@@ -1,0 +1,22 @@
+{
+  "name": "ui-engineering",
+  "version": "1.0.0",
+  "description": "Use when constructing frontend components, selecting layout strategies, orchestrating state, or assembling interactive UI - spans component architecture, responsive adaptation, accessibility compliance, and rendering performance across any frontend framework",
+  "tags": [
+    "engineering"
+  ],
+  "agents": [
+    "opencode",
+    "claude",
+    "codex",
+    "cursor",
+    "windsurf",
+    "copilot",
+    "cline",
+    "aider"
+  ],
+  "category": "architecture",
+  "dependencies": [],
+  "scripts": [],
+  "references": []
+}

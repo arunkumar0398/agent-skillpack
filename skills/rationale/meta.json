@@ -1,0 +1,22 @@
+{
+  "name": "rationale",
+  "version": "1.0.0",
+  "description": "Use when a user requests new work - features, components, integrations, or additions - to challenge assumptions, evaluate effort, surface alternatives, and ensure the work is worth doing before committing to it",
+  "tags": [
+    "rationale"
+  ],
+  "agents": [
+    "opencode",
+    "claude",
+    "codex",
+    "cursor",
+    "windsurf",
+    "copilot",
+    "cline",
+    "aider"
+  ],
+  "category": "architecture",
+  "dependencies": [],
+  "scripts": [],
+  "references": []
+}

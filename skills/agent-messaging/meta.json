@@ -1,0 +1,23 @@
+{
+  "name": "agent-messaging",
+  "version": "1.0.0",
+  "description": "Use when dispatching subagents, composing prompts for teammates, structuring handoff reports, or managing context boundaries between agents. Covers both subagent prompts and team-level messaging.",
+  "tags": [
+    "agent",
+    "messaging"
+  ],
+  "agents": [
+    "opencode",
+    "claude",
+    "codex",
+    "cursor",
+    "windsurf",
+    "copilot",
+    "cline",
+    "aider"
+  ],
+  "category": "architecture",
+  "dependencies": [],
+  "scripts": [],
+  "references": []
+}

@@ -1,0 +1,25 @@
+{
+  "name": "idea-refine",
+  "version": "1.0.0",
+  "description": "",
+  "tags": [
+    "idea",
+    "refine"
+  ],
+  "agents": [
+    "opencode",
+    "claude",
+    "codex",
+    "cursor",
+    "windsurf",
+    "copilot",
+    "cline",
+    "aider"
+  ],
+  "category": "git",
+  "dependencies": [],
+  "scripts": [
+    "idea-refine.sh"
+  ],
+  "references": []
+}

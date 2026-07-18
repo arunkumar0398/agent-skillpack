@@ -1,0 +1,23 @@
+{
+  "name": "design-research",
+  "version": "1.0.0",
+  "description": "Use when building ANY website, web app, landing page, or web-based UI - searches real template marketplaces for professionally designed layouts in the user's industry or niche, then extracts layout structure, color palettes, typography choices, and section sequences as the design blueprint instead of generating from assumptions",
+  "tags": [
+    "design",
+    "research"
+  ],
+  "agents": [
+    "opencode",
+    "claude",
+    "codex",
+    "cursor",
+    "windsurf",
+    "copilot",
+    "cline",
+    "aider"
+  ],
+  "category": "git",
+  "dependencies": [],
+  "scripts": [],
+  "references": []
+}

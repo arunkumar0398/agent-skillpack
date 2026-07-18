@@ -1,0 +1,23 @@
+{
+  "name": "error-recovery",
+  "version": "1.0.0",
+  "description": "Use when repeated fix attempts fail, the agent appears stuck in a loop, or complexity is increasing without progress",
+  "tags": [
+    "error",
+    "recovery"
+  ],
+  "agents": [
+    "opencode",
+    "claude",
+    "codex",
+    "cursor",
+    "windsurf",
+    "copilot",
+    "cline",
+    "aider"
+  ],
+  "category": "debugging",
+  "dependencies": [],
+  "scripts": [],
+  "references": []
+}

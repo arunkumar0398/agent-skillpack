@@ -1,0 +1,23 @@
+{
+  "name": "performance-optimization",
+  "version": "1.0.0",
+  "description": "",
+  "tags": [
+    "performance",
+    "optimization"
+  ],
+  "agents": [
+    "opencode",
+    "claude",
+    "codex",
+    "cursor",
+    "windsurf",
+    "copilot",
+    "cline",
+    "aider"
+  ],
+  "category": "architecture",
+  "dependencies": [],
+  "scripts": [],
+  "references": []
+}

@@ -1,0 +1,23 @@
+{
+  "name": "shipping-and-launch",
+  "version": "1.0.0",
+  "description": "",
+  "tags": [
+    "shipping",
+    "launch"
+  ],
+  "agents": [
+    "opencode",
+    "claude",
+    "codex",
+    "cursor",
+    "windsurf",
+    "copilot",
+    "cline",
+    "aider"
+  ],
+  "category": "operations",
+  "dependencies": [],
+  "scripts": [],
+  "references": []
+}

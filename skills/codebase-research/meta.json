@@ -1,0 +1,23 @@
+{
+  "name": "codebase-research",
+  "version": "1.0.0",
+  "description": "Use when building ANY feature within an existing project - search the current codebase for existing patterns, conventions, similar implementations, and established approaches before writing new code",
+  "tags": [
+    "codebase",
+    "research"
+  ],
+  "agents": [
+    "opencode",
+    "claude",
+    "codex",
+    "cursor",
+    "windsurf",
+    "copilot",
+    "cline",
+    "aider"
+  ],
+  "category": "architecture",
+  "dependencies": [],
+  "scripts": [],
+  "references": []
+}

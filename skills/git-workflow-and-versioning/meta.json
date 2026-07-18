@@ -1,0 +1,24 @@
+{
+  "name": "git-workflow-and-versioning",
+  "version": "1.0.0",
+  "description": "",
+  "tags": [
+    "git",
+    "workflow",
+    "versioning"
+  ],
+  "agents": [
+    "opencode",
+    "claude",
+    "codex",
+    "cursor",
+    "windsurf",
+    "copilot",
+    "cline",
+    "aider"
+  ],
+  "category": "git",
+  "dependencies": [],
+  "scripts": [],
+  "references": []
+}

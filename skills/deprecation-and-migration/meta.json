@@ -1,0 +1,23 @@
+{
+  "name": "deprecation-and-migration",
+  "version": "1.0.0",
+  "description": "",
+  "tags": [
+    "deprecation",
+    "migration"
+  ],
+  "agents": [
+    "opencode",
+    "claude",
+    "codex",
+    "cursor",
+    "windsurf",
+    "copilot",
+    "cline",
+    "aider"
+  ],
+  "category": "architecture",
+  "dependencies": [],
+  "scripts": [],
+  "references": []
+}

@@ -1,0 +1,23 @@
+{
+  "name": "security-protocol",
+  "version": "1.0.0",
+  "description": "Use when writing code that processes user input, manages authentication or authorization, constructs database queries, handles file operations, interacts with external data, exposes API endpoints, or manages secrets - any code that crosses a trust boundary",
+  "tags": [
+    "security",
+    "protocol"
+  ],
+  "agents": [
+    "opencode",
+    "claude",
+    "codex",
+    "cursor",
+    "windsurf",
+    "copilot",
+    "cline",
+    "aider"
+  ],
+  "category": "security",
+  "dependencies": [],
+  "scripts": [],
+  "references": []
+}

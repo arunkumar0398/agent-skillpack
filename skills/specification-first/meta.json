@@ -1,0 +1,23 @@
+{
+  "name": "specification-first",
+  "version": "1.0.0",
+  "description": "Use when building any feature, API, module, or system before writing implementation code - produces a structured behavior specification defining inputs, outputs, constraints, edge cases, and acceptance criteria as the authoritative artifact",
+  "tags": [
+    "specification",
+    "first"
+  ],
+  "agents": [
+    "opencode",
+    "claude",
+    "codex",
+    "cursor",
+    "windsurf",
+    "copilot",
+    "cline",
+    "aider"
+  ],
+  "category": "security",
+  "dependencies": [],
+  "scripts": [],
+  "references": []
+}

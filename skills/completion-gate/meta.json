@@ -1,0 +1,23 @@
+{
+  "name": "completion-gate",
+  "version": "1.0.0",
+  "description": "Use when about to declare work done, fixed, or passing, before committing or opening PRs - demands executing verification commands and reading their output before making any success assertions; evidence precedes claims always",
+  "tags": [
+    "completion",
+    "gate"
+  ],
+  "agents": [
+    "opencode",
+    "claude",
+    "codex",
+    "cursor",
+    "windsurf",
+    "copilot",
+    "cline",
+    "aider"
+  ],
+  "category": "testing",
+  "dependencies": [],
+  "scripts": [],
+  "references": []
+}

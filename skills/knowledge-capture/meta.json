@@ -1,0 +1,23 @@
+{
+  "name": "knowledge-capture",
+  "version": "1.0.0",
+  "description": "Use when completing any meaningful task - distill patterns, lessons, and insights from the interaction and persist them for future sessions",
+  "tags": [
+    "knowledge",
+    "capture"
+  ],
+  "agents": [
+    "opencode",
+    "claude",
+    "codex",
+    "cursor",
+    "windsurf",
+    "copilot",
+    "cline",
+    "aider"
+  ],
+  "category": "architecture",
+  "dependencies": [],
+  "scripts": [],
+  "references": []
+}

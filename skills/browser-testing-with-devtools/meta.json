@@ -1,0 +1,24 @@
+{
+  "name": "browser-testing-with-devtools",
+  "version": "1.0.0",
+  "description": "",
+  "tags": [
+    "browser",
+    "testing",
+    "devtools"
+  ],
+  "agents": [
+    "opencode",
+    "claude",
+    "codex",
+    "cursor",
+    "windsurf",
+    "copilot",
+    "cline",
+    "aider"
+  ],
+  "category": "architecture",
+  "dependencies": [],
+  "scripts": [],
+  "references": []
+}

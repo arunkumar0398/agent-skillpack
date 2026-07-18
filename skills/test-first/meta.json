@@ -1,0 +1,23 @@
+{
+  "name": "test-first",
+  "version": "1.0.0",
+  "description": "Use when implementing any feature or bugfix, before writing implementation code",
+  "tags": [
+    "test",
+    "first"
+  ],
+  "agents": [
+    "opencode",
+    "claude",
+    "codex",
+    "cursor",
+    "windsurf",
+    "copilot",
+    "cline",
+    "aider"
+  ],
+  "category": "architecture",
+  "dependencies": [],
+  "scripts": [],
+  "references": []
+}

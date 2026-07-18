@@ -1,0 +1,23 @@
+{
+  "name": "project-bootstrap",
+  "version": "1.0.0",
+  "description": "Use when launching a new project, initializing a repository, or building a codebase from the ground up - addresses directory structure, tooling configuration, linting, testing infrastructure, CI/CD pipelines, and version control setup",
+  "tags": [
+    "project",
+    "bootstrap"
+  ],
+  "agents": [
+    "opencode",
+    "claude",
+    "codex",
+    "cursor",
+    "windsurf",
+    "copilot",
+    "cline",
+    "aider"
+  ],
+  "category": "git",
+  "dependencies": [],
+  "scripts": [],
+  "references": []
+}

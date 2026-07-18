@@ -1,0 +1,23 @@
+{
+  "name": "delegated-execution",
+  "version": "1.0.0",
+  "description": "Use when executing implementation plans with independent tasks in the current session",
+  "tags": [
+    "delegated",
+    "execution"
+  ],
+  "agents": [
+    "opencode",
+    "claude",
+    "codex",
+    "cursor",
+    "windsurf",
+    "copilot",
+    "cline",
+    "aider"
+  ],
+  "category": "testing",
+  "dependencies": [],
+  "scripts": [],
+  "references": []
+}

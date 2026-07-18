@@ -1,0 +1,23 @@
+{
+  "name": "code-simplification",
+  "version": "1.0.0",
+  "description": "",
+  "tags": [
+    "code",
+    "simplification"
+  ],
+  "agents": [
+    "opencode",
+    "claude",
+    "codex",
+    "cursor",
+    "windsurf",
+    "copilot",
+    "cline",
+    "aider"
+  ],
+  "category": "git",
+  "dependencies": [],
+  "scripts": [],
+  "references": []
+}

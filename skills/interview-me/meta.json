@@ -1,0 +1,22 @@
+{
+  "name": "interview-me",
+  "version": "1.0.0",
+  "description": "",
+  "tags": [
+    "interview"
+  ],
+  "agents": [
+    "opencode",
+    "claude",
+    "codex",
+    "cursor",
+    "windsurf",
+    "copilot",
+    "cline",
+    "aider"
+  ],
+  "category": "architecture",
+  "dependencies": [],
+  "scripts": [],
+  "references": []
+}

@@ -1,0 +1,23 @@
+{
+  "name": "parallel-execution",
+  "version": "1.0.0",
+  "description": "Use when facing 2+ tasks that share no state and have no sequential dependencies - enables concurrent investigation or implementation by dispatching one agent per isolated problem domain",
+  "tags": [
+    "parallel",
+    "execution"
+  ],
+  "agents": [
+    "opencode",
+    "claude",
+    "codex",
+    "cursor",
+    "windsurf",
+    "copilot",
+    "cline",
+    "aider"
+  ],
+  "category": "workflow",
+  "dependencies": [],
+  "scripts": [],
+  "references": []
+}

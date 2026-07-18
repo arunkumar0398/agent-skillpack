@@ -1,0 +1,23 @@
+{
+  "name": "observability-and-instrumentation",
+  "version": "1.0.0",
+  "description": "",
+  "tags": [
+    "observability",
+    "instrumentation"
+  ],
+  "agents": [
+    "opencode",
+    "claude",
+    "codex",
+    "cursor",
+    "windsurf",
+    "copilot",
+    "cline",
+    "aider"
+  ],
+  "category": "debugging",
+  "dependencies": [],
+  "scripts": [],
+  "references": []
+}

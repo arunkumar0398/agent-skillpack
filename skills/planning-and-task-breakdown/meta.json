@@ -1,0 +1,24 @@
+{
+  "name": "planning-and-task-breakdown",
+  "version": "1.0.0",
+  "description": "",
+  "tags": [
+    "planning",
+    "task",
+    "breakdown"
+  ],
+  "agents": [
+    "opencode",
+    "claude",
+    "codex",
+    "cursor",
+    "windsurf",
+    "copilot",
+    "cline",
+    "aider"
+  ],
+  "category": "architecture",
+  "dependencies": [],
+  "scripts": [],
+  "references": []
+}

@@ -1,0 +1,23 @@
+{
+  "name": "system-design",
+  "version": "1.0.0",
+  "description": "Use when making technology or structural decisions - selecting databases, APIs, auth strategies, caching layers, file organization, or weighing monolith against services",
+  "tags": [
+    "system",
+    "design"
+  ],
+  "agents": [
+    "opencode",
+    "claude",
+    "codex",
+    "cursor",
+    "windsurf",
+    "copilot",
+    "cline",
+    "aider"
+  ],
+  "category": "architecture",
+  "dependencies": [],
+  "scripts": [],
+  "references": []
+}

@@ -1,0 +1,24 @@
+{
+  "name": "using-agent-skills",
+  "version": "1.0.0",
+  "description": "",
+  "tags": [
+    "using",
+    "agent",
+    "skills"
+  ],
+  "agents": [
+    "opencode",
+    "claude",
+    "codex",
+    "cursor",
+    "windsurf",
+    "copilot",
+    "cline",
+    "aider"
+  ],
+  "category": "testing",
+  "dependencies": [],
+  "scripts": [],
+  "references": []
+}

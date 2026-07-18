@@ -1,0 +1,23 @@
+{
+  "name": "pattern-matching",
+  "version": "1.0.0",
+  "description": "Use when contributing code to an existing project - guarantees that every new line mirrors the established conventions, naming schemes, architectural layering, directory layout, and stylistic choices already present in the codebase rather than drifting toward generic AI defaults",
+  "tags": [
+    "pattern",
+    "matching"
+  ],
+  "agents": [
+    "opencode",
+    "claude",
+    "codex",
+    "cursor",
+    "windsurf",
+    "copilot",
+    "cline",
+    "aider"
+  ],
+  "category": "quality",
+  "dependencies": [],
+  "scripts": [],
+  "references": []
+}

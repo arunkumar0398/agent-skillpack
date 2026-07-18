@@ -1,0 +1,23 @@
+{
+  "name": "environment-awareness",
+  "version": "1.0.0",
+  "description": "Use when starting a session, running shell commands, installing packages, or diagnosing platform-specific failures - detects OS, shell, runtime, package manager, and toolchain before any command execution",
+  "tags": [
+    "environment",
+    "awareness"
+  ],
+  "agents": [
+    "opencode",
+    "claude",
+    "codex",
+    "cursor",
+    "windsurf",
+    "copilot",
+    "cline",
+    "aider"
+  ],
+  "category": "architecture",
+  "dependencies": [],
+  "scripts": [],
+  "references": []
+}

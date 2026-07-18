@@ -1,0 +1,23 @@
+{
+  "name": "frontend-ui-engineering",
+  "version": "1.0.0",
+  "description": "",
+  "tags": [
+    "frontend",
+    "engineering"
+  ],
+  "agents": [
+    "opencode",
+    "claude",
+    "codex",
+    "cursor",
+    "windsurf",
+    "copilot",
+    "cline",
+    "aider"
+  ],
+  "category": "architecture",
+  "dependencies": [],
+  "scripts": [],
+  "references": []
+}

@@ -1,0 +1,23 @@
+{
+  "name": "intent-discovery",
+  "version": "1.0.0",
+  "description": "Use when starting any creative work - creating features, building components, adding functionality, or modifying behavior. Explores user intent, requirements, and design before implementation.",
+  "tags": [
+    "intent",
+    "discovery"
+  ],
+  "agents": [
+    "opencode",
+    "claude",
+    "codex",
+    "cursor",
+    "windsurf",
+    "copilot",
+    "cline",
+    "aider"
+  ],
+  "category": "architecture",
+  "dependencies": [],
+  "scripts": [],
+  "references": []
+}

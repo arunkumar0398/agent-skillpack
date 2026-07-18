@@ -1,0 +1,24 @@
+{
+  "name": "code-review-and-quality",
+  "version": "1.0.0",
+  "description": "",
+  "tags": [
+    "code",
+    "review",
+    "quality"
+  ],
+  "agents": [
+    "opencode",
+    "claude",
+    "codex",
+    "cursor",
+    "windsurf",
+    "copilot",
+    "cline",
+    "aider"
+  ],
+  "category": "git",
+  "dependencies": [],
+  "scripts": [],
+  "references": []
+}

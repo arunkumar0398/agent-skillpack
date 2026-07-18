@@ -1,0 +1,23 @@
+{
+  "name": "incremental-implementation",
+  "version": "1.0.0",
+  "description": "",
+  "tags": [
+    "incremental",
+    "implementation"
+  ],
+  "agents": [
+    "opencode",
+    "claude",
+    "codex",
+    "cursor",
+    "windsurf",
+    "copilot",
+    "cline",
+    "aider"
+  ],
+  "category": "architecture",
+  "dependencies": [],
+  "scripts": [],
+  "references": []
+}

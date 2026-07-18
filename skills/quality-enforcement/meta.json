@@ -1,0 +1,23 @@
+{
+  "name": "quality-enforcement",
+  "version": "1.0.0",
+  "description": "Use when preparing code for commit, PR, or merge - covers linting, type safety, bundle budgets, coverage thresholds, complexity limits, dependency audit, and dead code detection",
+  "tags": [
+    "quality",
+    "enforcement"
+  ],
+  "agents": [
+    "opencode",
+    "claude",
+    "codex",
+    "cursor",
+    "windsurf",
+    "copilot",
+    "cline",
+    "aider"
+  ],
+  "category": "git",
+  "dependencies": [],
+  "scripts": [],
+  "references": []
+}

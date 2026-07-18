@@ -1,0 +1,23 @@
+{
+  "name": "merge-protocol",
+  "version": "1.0.0",
+  "description": "Use when implementation is finished, tests are green, and you need to decide how to land the work - presents structured integration paths for local merge, pull request, deferral, or abandonment",
+  "tags": [
+    "merge",
+    "protocol"
+  ],
+  "agents": [
+    "opencode",
+    "claude",
+    "codex",
+    "cursor",
+    "windsurf",
+    "copilot",
+    "cline",
+    "aider"
+  ],
+  "category": "git",
+  "dependencies": [],
+  "scripts": [],
+  "references": []
+}

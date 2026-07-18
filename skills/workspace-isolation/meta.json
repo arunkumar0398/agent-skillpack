@@ -1,0 +1,23 @@
+{
+  "name": "workspace-isolation",
+  "version": "1.0.0",
+  "description": "Use when starting feature work that needs isolation from the current workspace or before executing implementation plans - creates isolated git worktrees with smart directory selection and safety verification",
+  "tags": [
+    "workspace",
+    "isolation"
+  ],
+  "agents": [
+    "opencode",
+    "claude",
+    "codex",
+    "cursor",
+    "windsurf",
+    "copilot",
+    "cline",
+    "aider"
+  ],
+  "category": "git",
+  "dependencies": [],
+  "scripts": [],
+  "references": []
+}
