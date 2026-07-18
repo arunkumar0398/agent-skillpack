@@ -1,0 +1,16 @@
+{
+  "name": "mcp-server-health-monitor",
+  "version": "1.0.0",
+  "description": "Manages MCP server lifecycle — health checks, timeout tuning, restart protocol, and inventory awareness",
+  "tags": ["mcp", "servers", "health", "monitoring"],
+  "agents": ["all"],
+  "category": "operations",
+  "dependencies": [],
+  "scripts": [
+    "health-check.sh",
+    "restart-failed.sh"
+  ],
+  "references": [
+    "mcp-timeouts.md"
+  ]
+}

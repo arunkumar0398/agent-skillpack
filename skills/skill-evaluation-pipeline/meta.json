@@ -1,0 +1,27 @@
+{
+  "name": "skill-evaluation-pipeline",
+  "version": "1.0.0",
+  "description": "A/B testing pipeline for prompts, skills, and workflows - validates improvements through structured comparison and benchmarking",
+  "tags": [
+    "evaluation",
+    "testing",
+    "comparison",
+    "benchmarking"
+  ],
+  "agents": [
+    "grader",
+    "analyzer",
+    "comparator",
+    "planner",
+    "implementer",
+    "reviewer",
+    "validator",
+    "orchestrator"
+  ],
+  "category": "meta",
+  "dependencies": [],
+  "scripts": [],
+  "references": [
+    "schemas.md"
+  ]
+}

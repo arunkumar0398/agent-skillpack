@@ -1,0 +1,17 @@
+{
+  "name": "dual-runtime-coordinator",
+  "version": "1.0.0",
+  "description": "Coordinates native Windows and Linux VM execution for optimal runtime selection and task routing",
+  "tags": ["runtime", "vm", "windows", "linux"],
+  "agents": ["opencode", "claude", "cursor", "copilot", "windsurf", "cline", "aider", "amp"],
+  "category": "operations",
+  "dependencies": [],
+  "scripts": [
+    "check-vm.sh",
+    "warm-bundle.sh"
+  ],
+  "references": [
+    "runtime-matrix.md",
+    "vm-management.md"
+  ]
+}

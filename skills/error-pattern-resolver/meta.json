@@ -1,0 +1,25 @@
+{
+  "name": "error-pattern-resolver",
+  "version": "1.0.0",
+  "description": "Identifies known errors via fingerprinting and pattern matching, applies pre-verified fixes, and documents resolutions.",
+  "tags": ["errors", "debugging", "pattern-matching", "known-issues", "auto-fix", "diagnostics"],
+  "agents": [
+    "code-reviewer",
+    "code-simplifier",
+    "debugger",
+    "deployer",
+    "reviewer",
+    "security-auditor",
+    "test-engineer",
+    "tester"
+  ],
+  "category": "debugging",
+  "dependencies": [],
+  "scripts": [
+    "scan-logs.sh",
+    "fix-gh-cli.ps1"
+  ],
+  "references": [
+    "known-errors.md"
+  ]
+}

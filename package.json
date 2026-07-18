@@ -1,0 +1,41 @@
+{
+  "name": "agent-skillpack",
+  "version": "1.0.0",
+  "description": "Universal AI agent skill pack — 70+ engineering skills compatible with OpenCode, Claude Code, Codex, Cursor, Windsurf, GitHub Copilot, Cline, and Aider",
+  "main": "build.js",
+  "type": "module",
+  "scripts": {
+    "build": "node build.js",
+    "build:opencode": "node build.js --target opencode",
+    "build:claude": "node build.js --target claude",
+    "build:codex": "node build.js --target codex",
+    "build:cursor": "node build.js --target cursor",
+    "build:windsurf": "node build.js --target windsurf",
+    "build:copilot": "node build.js --target copilot",
+    "build:cline": "node build.js --target cline",
+    "build:aider": "node build.js --target aider",
+    "validate": "node validate.js",
+    "clean": "node -e \"import('fs').then(f=>f.rmSync('dist',{recursive:true,force:true}))\"",
+    "test": "node validate.js && node build.js",
+    "publish:prepare": "node build.js && node validate.js"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "skills",
+    "claude",
+    "codex",
+    "cursor",
+    "windsurf",
+    "copilot",
+    "cline",
+    "aider",
+    "opencode",
+    "coding-assistant"
+  ],
+  "author": "sivaa",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

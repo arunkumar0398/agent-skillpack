@@ -1,0 +1,30 @@
+{
+  "name": "session-lifecycle-manager",
+  "version": "1.0.0",
+  "description": "Manages Claude session state machines, SSE bridge health, and session cleanup across desktop and web clients.",
+  "tags": [
+    "sessions",
+    "lifecycle",
+    "bridge",
+    "timeout"
+  ],
+  "agents": [
+    "claude-desktop",
+    "claude-web",
+    "claude-code",
+    "claude-api",
+    "claude-cli",
+    "claude-mobile",
+    "claude-plugin",
+    "claude-embedded"
+  ],
+  "category": "claude-desktop",
+  "dependencies": [],
+  "scripts": [
+    "cleanup-sessions.sh",
+    "check-bridge.sh"
+  ],
+  "references": [
+    "session-states.md"
+  ]
+}

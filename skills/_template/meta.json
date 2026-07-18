@@ -1,0 +1,11 @@
+{
+  "name": "skill-name",
+  "version": "1.0.0",
+  "description": "One-line description of what this skill does",
+  "tags": ["category1", "category2"],
+  "agents": ["opencode", "claude", "codex", "cursor", "windsurf", "copilot", "cline", "aider"],
+  "category": "workflow",
+  "dependencies": [],
+  "scripts": [],
+  "references": []
+}

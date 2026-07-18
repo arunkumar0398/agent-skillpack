@@ -1,0 +1,19 @@
+{
+  "name": "config-drift-detector",
+  "version": "1.0.0",
+  "description": "Detects and resolves configuration drift across Claude Desktop and other AI agent installations by comparing current state against known-good schemas",
+  "tags": ["config", "validation", "drift", "settings"],
+  "agents": ["all 8"],
+  "category": {
+    "name": "Meta & Configuration",
+    "description": "Skills for managing agent configuration, settings, and system-level concerns"
+  },
+  "dependencies": [],
+  "scripts": [
+    "diff-configs.sh",
+    "validate-config.sh"
+  ],
+  "references": [
+    "config-schemas.md"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "design-philosophy-first",
+  "version": "1.0.0",
+  "description": "Guides visual output through a philosophy-first approach — every design artifact starts from a named movement and articulates principles before touching pixels.",
+  "tags": ["design", "visuals", "themes", "philosophy"],
+  "agents": ["all"],
+  "category": "design",
+  "dependencies": [],
+  "scripts": ["apply-theme.sh"],
+  "references": ["anti-ai-slop.md", "theme-palettes.md"]
+}

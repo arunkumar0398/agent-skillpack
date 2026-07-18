@@ -1,0 +1,11 @@
+{
+  "name": "worktree-orchestrator",
+  "version": "1.0.0",
+  "description": "Creates, tracks, and cleans up git worktrees with naming conventions",
+  "tags": ["git", "worktrees", "parallel-work", "cleanup"],
+  "agents": ["opencode", "claude", "codex", "cursor", "windsurf", "copilot", "cline", "aider"],
+  "category": "git",
+  "dependencies": [],
+  "scripts": ["cleanup-stale.sh", "list-all.sh"],
+  "references": ["naming-conventions.md"]
+}
