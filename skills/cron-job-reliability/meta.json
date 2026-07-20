@@ -1,0 +1,11 @@
+{
+  "name": "cron-job-reliability",
+  "version": "1.0.0",
+  "description": "Makes scheduled jobs reliable with idempotent execution, distributed locking, structured error handling, and dead job detection.",
+  "tags": ["operations", "cron", "reliability", "scheduling"],
+  "agents": ["opencode", "claude", "codex", "cursor", "windsurf", "copilot", "cline", "aider"],
+  "category": "operations",
+  "dependencies": [],
+  "scripts": [],
+  "references": []
+}

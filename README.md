@@ -1,6 +1,6 @@
 # Agent Skillpack
 
-Universal AI agent skill pack — **70+ engineering skills** compatible with 8 coding agents.
+Universal AI agent skill pack — **73+ engineering skills** compatible with 8 coding agents.
 
 ## What Is This?
 
@@ -90,6 +90,9 @@ cp D:\agent-skillpack\dist\aider\* /path/to/your/project/
 - `frontend-ui-engineering` — Production-quality UI
 - `system-design` — Technology decisions
 - `design-philosophy-first` — Philosophy-driven visuals
+- `event-driven-patterns` — Reliable message queues, DLQ, schema versioning
+- `multi-tenant-architecture` — Tenant isolation, row-level security, per-tenant config
+- `cron-job-reliability` — Idempotent jobs, distributed locks, dead job detection
 
 ### Operations
 - `ci-cd-and-automation` — Pipeline setup
